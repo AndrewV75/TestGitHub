@@ -1,2 +1,5 @@
-print('Hello, World!')
-print('Hello, Git')
+def my_sum(a, b):
+    return a + b
+
+
+print(my_sum(15, 25))
